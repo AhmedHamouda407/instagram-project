@@ -1,0 +1,31 @@
+.phones {
+  float: left;
+}
+li {
+  list-style: none;
+  display: inline-block;
+
+}
+ul li{
+ font-size:8px;
+}
+
+ul {
+  text-align: center;
+}
+.button {
+  color: white;
+  background-color: rgb(36, 156, 242);
+  font-size: 25px;
+  height: 35px;
+  width:400px;
+}
+/* .firstborder{ */
+  border-color: grey;
+  border-style: solid;
+  border-width: 200px;
+/* } */
+/* .userinput{ */
+  height: 35px;
+  width: 400px;
+/* } */
